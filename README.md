@@ -7,4 +7,4 @@ I have experience with:
 - React
 - NextJS
 
-I'd love to connect and talk about software development; I am also looking for mentorship, whether that's informal or formal - feel free to DM me!
+I'd love to connect and talk about software development, feel free to DM me!
