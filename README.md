@@ -4,9 +4,10 @@ I have experience with:
 - HTML
 - CSS
 - JavaScript
+- Tailwind
 - React
-- NextJS
-- NodeJS
-- Express
+- Next.js
+- Node.js
+- Express.js
 
 I'd love to connect and talk about software development, feel free to DM me!
