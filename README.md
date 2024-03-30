@@ -4,10 +4,11 @@ I have experience with:
 - HTML
 - CSS
 - JavaScript
-- Tailwind
+- Tailwind CSS
 - React
 - Next.js
 - Node.js
 - Express.js
+- MongoDB
 
 I'd love to connect and talk about software development, feel free to DM me!
